@@ -27,4 +27,5 @@ python3 weather_analyser.py
 
 ![Dublin Weather Chart](dublin_weather.png)
 
-## Sample Output
+## Author
+MSc Electronic & Communications Engineering Student — Ireland
